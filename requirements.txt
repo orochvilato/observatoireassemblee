@@ -40,7 +40,7 @@ service-identity==17.0.0
 short-url==1.2.2
 six==1.10.0
 smmap2==2.0.3
-Twisted==17.5.0
+Twisted==19.7.0
 ua-parser==0.7.3
 urllib3==1.21.1
 user-agents==1.1.0
